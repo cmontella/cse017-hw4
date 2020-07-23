@@ -1,5 +1,7 @@
 # CSE 017 - Homework 4
 
+Due: 7/29 by the end of the day
+
 Remember I want to see 1 commit for each question (at least). This means your repository should have at least 12 commits. This time I'll take points off if you don't follow this instruction.
 
 ## Question 1
